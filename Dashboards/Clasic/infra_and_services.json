@@ -1,13 +1,6 @@
 {
-  "metadata": {
-    "configurationVersions": [
-      7
-    ],
-    "clusterVersion": "1.293.129.20240615-053240"
-  },
-  "id": "600bead8-7ac0-4def-b3f5-975c5d28ba07",
   "dashboardMetadata": {
-    "name": "SISACT PREPAGO OVERVIEW: Service and Infra",
+    "name": "CLARO_MZ OVERVIEW: Service and Infra",
     "shared": true,
     "owner": "jose.romero@dynatrace.com",
     "dashboardFilter": {
@@ -20,9 +13,14 @@
       "SISACT_PREPAGO"
     ],
     "preset": true,
-    "popularity": 1,
     "tilesNameSize": "small",
     "hasConsistentColors": true
+  },
+  "metadata": {
+    "configurationVersions": [
+      7
+    ],
+    "clusterVersion": "1.293.129.20240615-053240"
   },
   "tiles": [
     {
